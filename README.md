@@ -6,7 +6,7 @@ Uses Beatifulsoup4 to extract data from web.
 
 To run this project, simply:
 - Create virtual environment for python or selkect the right interpreter
-- pip install the requirements (requests, beautifulsoup4, pandas, openpyxl
+- pip install the requirements (requests, beautifulsoup4, pandas, openpyxl)
 
 Goal:
 - Learn data extraction, analysis and visualization, data cleaning and processing
